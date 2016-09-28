@@ -1,0 +1,15 @@
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\bin\Debug\ViaCEP Client.exe.config
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\bin\Debug\ViaCEP Client.exe
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\bin\Debug\ViaCEP Client.pdb
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\obj\Debug\ViaCEP Client.csprojResolveAssemblyReference.cache
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\obj\Debug\MainWindow.g.cs
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\obj\Debug\App.g.cs
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\obj\Debug\ViaCEP Client_MarkupCompile.cache
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\obj\Debug\ViaCEP Client_MarkupCompile.lref
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\obj\Debug\MainWindow.baml
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\obj\Debug\ViaCEP Client.g.resources
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\obj\Debug\ViaCEP_Client.Properties.Resources.resources
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\obj\Debug\ViaCEP Client.csproj.GenerateResource.Cache
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\obj\Debug\ViaCEP Client.exe
+c:\users\elder\documents\visual studio 2015\Projects\OrientadoServicos\ViaCEP Client\obj\Debug\ViaCEP Client.pdb
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client\bin\Debug\Xceed.Wpf.Toolkit.dll

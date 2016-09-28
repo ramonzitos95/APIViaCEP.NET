@@ -1,0 +1,34 @@
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\ViaCEP Client 3.exe.config
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\obj\Debug\ViaCEP Client 3.csprojResolveAssemblyReference.cache
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\obj\Debug\MainWindow.g.cs
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\obj\Debug\App.g.cs
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\obj\Debug\ViaCEP Client 3_MarkupCompile.cache
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\obj\Debug\ViaCEP Client 3_MarkupCompile.lref
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\ViaCEP Client 3.exe
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\ViaCEP Client 3.pdb
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\Npgsql.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\Npgsql.xml
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\obj\Debug\MainWindow.baml
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\obj\Debug\ViaCEP Client 3.g.resources
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\obj\Debug\ViaCEP_Client_3.Properties.Resources.resources
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\obj\Debug\ViaCEP Client 3.csproj.GenerateResource.Cache
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\obj\Debug\ViaCEP Client 3.exe
+C:\Users\Ramon\Documents\Visual Studio 2015\Projects\Outros\OrientadoServicos\ViaCEP Client 3\obj\Debug\ViaCEP Client 3.pdb

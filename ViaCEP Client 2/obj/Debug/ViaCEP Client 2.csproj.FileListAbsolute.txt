@@ -1,0 +1,30 @@
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\ViaCEP Client 2.exe.config
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\ViaCEP Client 2.exe
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\ViaCEP Client 2.pdb
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\obj\Debug\ViaCEP Client 2.csprojResolveAssemblyReference.cache
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\obj\Debug\MainWindow.g.cs
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\obj\Debug\App.g.cs
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\obj\Debug\ViaCEP Client 2_MarkupCompile.cache
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\obj\Debug\ViaCEP Client 2_MarkupCompile.lref
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\obj\Debug\MainWindow.baml
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\obj\Debug\ViaCEP Client 2.g.resources
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\obj\Debug\ViaCEP_Client_2.Properties.Resources.resources
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\obj\Debug\ViaCEP Client 2.csproj.GenerateResource.Cache
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\obj\Debug\ViaCEP Client 2.exe
+C:\Users\Elder\Documents\Visual Studio 2015\Projects\OrientadoServicos\ViaCEP Client 2\obj\Debug\ViaCEP Client 2.pdb

@@ -1,0 +1,34 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ViaCEP_Client_3_3"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="ViaCEP_Client_3_3.MainWindow"
+        mc:Ignorable="d"
+        Title="ViaCEP Client" Height="350" Width="525" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Grid>
+        <Label x:Name="label" Content="CEP:" HorizontalAlignment="Left" Margin="10,12,0,0" VerticalAlignment="Top" Width="32"/>
+        <Label x:Name="label1" Content="Formato Retorno:&#xA;" HorizontalAlignment="Left" Margin="172,12,0,0" VerticalAlignment="Top" Width="103" Height="26"/>
+        <ComboBox x:Name="comboBoxFormatoRetorno" HorizontalAlignment="Left" Margin="280,14,0,0" VerticalAlignment="Top" Width="149" SelectedIndex="0">
+            <ComboBoxItem Content="json"/>
+            <ComboBoxItem Content="xml"/>
+        </ComboBox>
+        <Button x:Name="buttonPesquisar" Content="Pesquisar" HorizontalAlignment="Left" Margin="432,14,0,0" VerticalAlignment="Top" Width="75" Height="22" Click="buttonPesquisar_Click" IsDefault="True"/>
+
+        <xctk:MaskedTextBox x:Name="maskedTextBoxCep" HorizontalAlignment="Left" Height="22" Margin="53,14,0,0" VerticalAlignment="Top" Width="114" Mask="00000-000" MaxLines="1"/>
+        <ListView x:Name="listViewEnderecos" Margin="10,43,10,10"
+                  GridViewColumnHeader.Click="listViewColumnHeader_Click">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Cep}" Header="Cep" Width="100"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Logradouro}" Header="Logradouro" Width="300"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Bairro}" Header="Bairro" Width="150"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Localidade}" Header="Localidade" Width="150"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding Uf}" Header="Uf" Width="50"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>
